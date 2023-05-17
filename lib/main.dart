@@ -63,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             Text(
               // '$_counter',
-              '오늘의 추천 메뉴?',
+              '오늘의 추천 음식?',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             Image.asset('$_img_num.png',
